@@ -1,12 +1,12 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import stats
 
 df = pd.read_csv('processed_matches.csv')
 df_stats = pd.read_csv('data.csv')
 
 st.title('FC Barcelona')
+st.warning('Versión 1.0 de la página')
 
 st.header('Tabulated Results')
 st.write('Data extracted from https://www.365scores.com/es/football/team/fc-barcelona-132 and processed with Pandas')
