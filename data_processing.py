@@ -34,4 +34,14 @@ for i in range(len(df)):
 
 df['Goal Difference'] = goal_difference
 
-print(df)
+
+cumulative_goal_difference = []
+accumulated = 0
+for i in df['Goal Difference']:
+    accumulated += i
+    cumulative_goal_difference.append(accumulated)
+
+df['CGD'] = cumulative_goal_difference
+
+
+df.to_csv('processed_matches.csv', index = False)
