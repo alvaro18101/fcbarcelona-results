@@ -1,16 +1,16 @@
-Local Team,Visiting Team,Result,Locality,Local Result,Visiting Result,Status,Goal Difference,CGD
+Local Team,Visiting Team,Result,Locality,Local Result,Away Result,Status,Goal Difference,CGD
 FC Barcelona,Brest,3-0,local,3,0,Win,3,3
-Celta de Vigo,FC Barcelona,2-2,visiting,2,2,Draw,0,3
-Real Sociedad,FC Barcelona,1-0,visiting,1,0,Lose,-1,2
-Estrella Roja,FC Barcelona,2-5,visiting,2,5,Win,3,5
+Celta de Vigo,FC Barcelona,2-2,away,2,2,Draw,0,3
+Real Sociedad,FC Barcelona,1-0,away,1,0,Lose,-1,2
+Estrella Roja,FC Barcelona,2-5,away,2,5,Win,3,5
 FC Barcelona,Espanyol,3-1,local,3,1,Win,2,7
-Real Madrid,FC Barcelona,0-4,visiting,0,4,Win,4,11
+Real Madrid,FC Barcelona,0-4,away,0,4,Win,4,11
 FC Barcelona,Bayern,4-1,local,4,1,Win,3,14
 FC Barcelona,Sevilla FC,5-1,local,5,1,Win,4,18
-Alavés,FC Barcelona,0-3,visiting,0,3,Win,3,21
+Alavés,FC Barcelona,0-3,away,0,3,Win,3,21
 FC Barcelona,Young Boys,5-0,local,5,0,Win,5,26
-Osasuna,FC Barcelona,4-2,visiting,4,2,Lose,-2,24
+Osasuna,FC Barcelona,4-2,away,4,2,Lose,-2,24
 FC Barcelona,Getafe CF,1-0,local,1,0,Win,1,25
-Villarreal CF,FC Barcelona,1-5,visiting,1,5,Win,4,29
-Monaco,FC Barcelona,2-1,visiting,2,1,Lose,-1,28
-Girona FC,FC Barcelona,1-4,visiting,1,4,Win,3,31
+Villarreal CF,FC Barcelona,1-5,away,1,5,Win,4,29
+Monaco,FC Barcelona,2-1,away,2,1,Lose,-1,28
+Girona FC,FC Barcelona,1-4,away,1,4,Win,3,31
